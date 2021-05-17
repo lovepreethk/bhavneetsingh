@@ -398,11 +398,11 @@ strong{
 }
 
 @keyframes pictures {
-    0%{ background-image: url(photography/capture3.jpg); }
-    28%{ background-image: url(photography/capture5.jpg) }
-    55%{ background-image: url(photography/capture1.jpg) }
-    75%{ background-image: url(photography/capture4.jpg) }
-    100%{ background-image: url(photography/capture2.jpg) }
+    0%{ background-image: url(capture3.jpg); }
+    28%{ background-image: url(capture5.jpg) }
+    55%{ background-image: url(capture1.jpg) }
+    75%{ background-image: url(capture4.jpg) }
+    100%{ background-image: url(capture2.jpg) }
 
 }
 
